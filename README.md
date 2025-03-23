@@ -22,7 +22,7 @@ python -m streamlit run app.py
   #OR 
   streamlit run app.py
 ```
-✔[**Download sample CSV**] ()
+✔[**Download sample CSV**] (https://github.com/ayesha-usama/Simple-Data-Dashboard/raw/refs/heads/main/README.md)
 
 
 
